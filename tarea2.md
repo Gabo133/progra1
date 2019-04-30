@@ -12,3 +12,6 @@ Menu:
 
 Resultado:
   * Palabra mas larga
+
+# Tarea
+Crear un algoritmo para dar vualta todos los valores una lista
