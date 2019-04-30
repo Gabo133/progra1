@@ -5,6 +5,7 @@ Requisitos:
   * Debe implementar funciones
   * Debe implementar listas
   * Debe ser iterativo
+  * Debe subirlo a github
 
 Menu:
   * Calcular palabra mas larga
